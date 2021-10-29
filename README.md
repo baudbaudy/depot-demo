@@ -1,2 +1,2 @@
 # depot-demo
-Bonjour
+Bonjour, bndjoir !
