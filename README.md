@@ -1,2 +1,2 @@
 # depot-demo
-Bonjour
+Cours initiation à git et github
